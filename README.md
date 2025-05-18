@@ -1,4 +1,4 @@
-# Cisco Packet Tracer Arch Installer
+# Cisco Packet Tracer Arch Linux Installer
 
 This script provides a simple and reliable way to install Cisco Packet Tracer on Arch Linux and its derivatives using the official `.deb` package provided by Cisco. It automates the extraction, dependency installation, and integration steps required to get Packet Tracer up and running as a native application with a desktop entry.
 
