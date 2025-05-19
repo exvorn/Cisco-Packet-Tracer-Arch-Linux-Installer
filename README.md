@@ -6,7 +6,7 @@ This script provides a simple and reliable way to install Cisco Packet Tracer on
 
 ```bash
 chmod +x packettracer_installer.sh
-sudo ./packettracer_installer.sh PacketTracer-8.2.1-ubuntu-64bit.deb
+sudo ./packettracer_installer.sh <PacketTracer.deb>
 ```
 
 ## Requirements
