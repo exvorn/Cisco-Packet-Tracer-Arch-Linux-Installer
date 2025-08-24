@@ -65,7 +65,7 @@ fi
 # Install dependencies
 echo 'Installing dependencies...'
 pacman -S --needed --noconfirm \
-  qt5-networkauth qt5-base qt5-multimedia qt5-websockets qt5-webengine qt5-svg qt5-speech \
+  qt5-networkauth qt5-base qt5-multimedia qt5-websockets qt5-webengine qt5-svg qt5-speech qt5-script \
   gstreamer gst-plugins-base nss alsa-lib openssl-1.1
 
 # Copy data (force overwrite, preserve permissions)
